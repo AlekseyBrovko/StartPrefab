@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Canvas
+  - UIAudioSource
+  - MusicAudioSource
+  - PlayerAudioSource
+  - EnemyAudioSource
+  - AudioBehaviour
   layers:
   - Default
   - TransparentFX
